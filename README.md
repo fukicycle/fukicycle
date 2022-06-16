@@ -1,10 +1,4 @@
 - 👋 Hi, I’m Fuki.
-- 👀 I’m interested in cycling!
-- 🌱 I’m currently learning C#, Xamarin, Kotlin, Java.
-<!--- 💞️ I’m looking to collaborate on ...-->
+- 👀 思いついたアプリを片っ端から作成してアイデアを形にしていきます！
+- 🌱 得意分野は、.NET Framework, .NET Core, Kotlin, Xamarin, ASP.NET, Java, C#
 - 📫 lego.sato.4135@gmail.com
-
-<!---
-fukicycle/fukicycle is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
