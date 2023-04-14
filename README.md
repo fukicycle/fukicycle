@@ -18,9 +18,13 @@
 
 ## Infrastructure
 [![Infrastructure](https://skillicons.dev/icons?i=aws,linux)](https://skillicons.dev)
+* cisco
+* Windows server
 
 ## Others
 [![Others](https://skillicons.dev/icons?i=mysql,selenium,gitlab,github)](https://skillicons.dev)
+* SQL Server
+* postgres
 
 ## GitHub Stats
 [![Yuta's GitHub stats](https://github-readme-stats.vercel.app/api?username=fukicycle&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
