@@ -14,7 +14,7 @@
 [![Frameworks](https://skillicons.dev/icons?i=dotnet,wasm,react,bootstrap)](https://skillicons.dev)
 
 ## Tools and IDE and Editor
-[![Tools](https://skillicons.dev/icons?i=figma,postman,vim,visualstudio,vscode,eclipse,intelij)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=figma,postman,vim,visualstudio,vscode,eclipse,idea,androidstudio)](https://skillicons.dev)
 
 ## Infrastructure
 [![Infrastructure](https://skillicons.dev/icons?i=aws,linux)](https://skillicons.dev)
