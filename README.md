@@ -16,6 +16,10 @@
   <img height="100" width="100" src="https://github.com/fukicycle/happy/blob/main/frontend/wwwroot/icon-192.png"/>
 </a>
 
+<a href="https://fukicycle.github.io/Vegelog" target="_blank">
+  <img height="100" width="100" src="https://github.com/fukicycle/Vegelog/blob/master/Vegelog.Client/wwwroot/icon-192.png"/>
+</a>
+
 honey - Now developing
 
 hitabi - Now developing
